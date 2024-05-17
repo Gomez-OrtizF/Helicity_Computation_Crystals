@@ -17,16 +17,20 @@ The script returns the value of the helicity for the crystalline phase:
 
 - **float**: The helicity of the structure.
 
+## Install
+
+pip install Helicity_Computation_Crystals
+
 ## Usage
 
 To run the script, use the following command:
 
 ```bash
-python3 helicity_computation.py 24 EXAMPLES/ref_hs EXAMPLES/chir_aa
+helicity_computation 24 examples/ref_hs examples/chir_aa
 ```
 
 Or
 
 ```bash
-python3 helicity_computation.py 24 EXAMPLES/ref_hs EXAMPLES/ls_a0
+helicity_computation 24 examples/ref_hs examples/ls_a0
 ```
