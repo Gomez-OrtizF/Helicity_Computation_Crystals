@@ -1,6 +1,6 @@
 [project]
 name = "Helicity_Computation_Crystals"
-version = "0.0.2"
+version = "0.0.7"
 description = "A script for the computation of handedness in crystalline structures."
 authors = [
     {name = "F. Gómez-ortiz", email = "fgomez@uliege.be"},
@@ -40,8 +40,8 @@ classifiers = [
   "Programming Language :: Python :: 3.12",
 ]
 
-[tool.setuptools.packages.find]
-where = ["Helicity_Computation_Crystals"]
+#[tool.setuptools.packages.find]
+#where = ["src"]
 
 [build-system]
 requires = ["setuptools>=61", "wheel"]
