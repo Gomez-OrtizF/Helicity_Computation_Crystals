@@ -22,11 +22,11 @@ The script returns the value of the helicity for the crystalline phase:
 To run the script, use the following command:
 
 ```bash
-python3 helicity_computation.py 24 ref_hs chir_aa
+python3 helicity_computation.py 24 EXAMPLES/ref_hs EXAMPLES/chir_aa
 ```
 
 Or
 
 ```bash
-python3 helicity_computation.py 24 ref_hs ls_a0
+python3 helicity_computation.py 24 EXAMPLES/ref_hs EXAMPLES/ls_a0
 ```
