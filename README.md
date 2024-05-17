@@ -22,3 +22,8 @@ To run the script, use the following command:
 
 ```bash
 python3 helicity_computation.py 24 ref_hs chir_aa
+
+Or
+
+```bash
+python3 helicity_computation.py 24 ref_hs ls_a0
