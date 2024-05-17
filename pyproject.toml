@@ -47,7 +47,8 @@ where = ["Helicity_Computation_Crystals"]
 requires = ["setuptools>=61", "wheel"]
 build-backend = "setuptools.build_meta"
 
-
+[project.scripts]
+helicity_computation = "Helicity_Computation_Crystals:main"
 
 [tool.pdm]
 distribution = true
