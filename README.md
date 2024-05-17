@@ -1,4 +1,4 @@
-# HelicityComputation
+# Helicity Computation
 
 This script is intended for the computation of the helicity of crystalline structures. A full description of the method, including its strengths and weaknesses, and its application to real systems can be found in [TO BE PUBLISHED].
 
