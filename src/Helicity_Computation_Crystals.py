@@ -175,6 +175,18 @@ def main():
     args = parser.parse_args()
     # Calculate the sum
     result = comp_hel(args.a, args.b, args.c)
+    print("*                          Welcome to                           *")
+    print("*                     HELICITY COMPUTATION                      *")
+    print("*                                                               *")
+    print("*                 This script was developped                    *")
+    print("*                 at the Université de Liège                    *")
+    print("* Authors:                                                      *")
+    print("*  - Fernando Gómez-Ortiz     fgomez@uliege.be                  *")
+    print("*                                                               *")
+    print("* Bibliography to cite when using this script:                  *")
+    print("*                                                               *")
+    print("*  F. Gómez-Ortiz et al XXXXXXX                                 *")
+    print("*  https://github.com/Gomez-OrtizF/Helicity_Computation_Crystals*")
     # Print the result
     print(f"The Helicity of the structure is {result}")
 if __name__ == "__main__":
