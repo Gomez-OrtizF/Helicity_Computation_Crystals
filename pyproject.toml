@@ -1,6 +1,6 @@
 [project]
 name = "Helicity_Computation_Crystals"
-version = "0.0.7"
+version = "0.0.8"
 description = "A script for the computation of handedness in crystalline structures."
 authors = [
     {name = "F. Gómez-ortiz", email = "fgomez@uliege.be"},
