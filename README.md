@@ -1,6 +1,7 @@
 # Helicity Computation
 
 This script is intended for the computation of the helicity of crystalline structures. A full description of the method, including its strengths and weaknesses, and its application to real systems can be found in [TO BE PUBLISHED].
+The work was developped by Fernando Gómez-Ortiz at the University of Liège working under the supervision of Eric Bousquet, PI of the CHRYSALID PDR project No. 40003544.
 
 The work was developped at the University of Liège and was funded by the Fonds de la Recherche Scientifique (FNRS) through the PDR project CHRYSALID No.40003544 and the Consortium des Équipements de Calcul Intensif (CÉCI), funded by the F.R.S.-FNRS under Grant No. 2.5020.11
 ## Input
